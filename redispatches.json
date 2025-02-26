@@ -3,7 +3,15 @@
     "id":1,
     "deliveryDate": "2025-02-25",
     "amountpos":20,
-    "country":20,
+    "country":"DE",
+    "machine":"machine1",
+},
+    {
+    "id":2,
+    "deliveryDate": "2025-02-25",
+    "amountpos":25,
+    "country":"DE",
+    "machine":"machine2",
 }
     
 ]
